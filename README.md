@@ -5,7 +5,7 @@ tail -f /var/log/kern.log
 ```
 
 ## File Device Driver Module
-* Demo HelloWorld chardev *
+*Demo HelloWorld chardev*
 
 ```
 cd chardev
@@ -27,7 +27,7 @@ cat example
 
 ```
 ## Net Link Module
-* NetLink *
+*NetLink*
 ```
 cd NetLink
 make
