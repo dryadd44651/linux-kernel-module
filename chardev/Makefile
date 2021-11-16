@@ -1,4 +1,4 @@
-obj-m += demo.o
+obj-m += chardev.o
 all:
 	make -C /lib/modules/`uname -r`/build M=$(PWD) modules
 clean:
