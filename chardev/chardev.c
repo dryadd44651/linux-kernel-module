@@ -81,5 +81,5 @@ module_exit(hello_exit);
 
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("hubuyu");
-MODULE_DESCRIPTION("Lesson 3-4 : Simple char with write/read");
+MODULE_AUTHOR("howard");
+MODULE_DESCRIPTION("Simple char with write/read");
