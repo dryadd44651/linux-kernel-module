@@ -25,6 +25,9 @@ echo  "132"  >  example
 cat example
 # 132
 
+# remove device
+sudo rm /dev/example
+
 ```
 ## Net Link Module
 *NetLink*
